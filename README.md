@@ -2,6 +2,10 @@
 
 Parrot Zsh Theme is a [zsh](https://www.zsh.org/) theme based on Parrot OS bash theme for [Oh My Zsh!](https://ohmyz.sh/), which is an open source, community-driven framework for managing zsh configuration.
 
+<p align="center">
+<img src="https://github.com/trabdlkarim/parrot-zsh-theme/blob/main/theme-preview.png?raw=true" alt="Parrot Zsh Theme">
+</p>
+
 ## Prerequisites
 
 - A Unix-like operating system: macOS, Linux, BSD. On Windows: WSL2 is preferred, but cygwin or msys also mostly work.
