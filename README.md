@@ -13,11 +13,11 @@ Parrot Zsh Theme is a [zsh](https://www.zsh.org/) theme based on Parrot OS bash 
 
 You can install Parrot Oh My Zsh Theme by running one of the following commands in your terminal. Basic installation is done via the command-line with either `curl`, `wget` or another similar tool.
 
-| Method    | Command                                                                                              |
-|:----------:------------------------------------------------------------------------------------------------------|
-| **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/trabdlkarim/parrot-zsh-theme/main/install.sh"`|
-| **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/trabdlkarim/parrot-zsh-theme/main/install.sh"`  |
-| **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/trabdlkarim/parrot-zsh-theme/main/install.sh"`|
+| Method    | Command                                                                                                |
+|:----------|:-------------------------------------------------------------------------------------------------------|
+| **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/trabdlkarim/parrot-zsh-theme/main/install.sh)"` |
+| **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/trabdlkarim/parrot-zsh-theme/main/install.sh)"`   |
+| **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/trabdlkarim/parrot-zsh-theme/main/install.sh)"` |
 
 ### Manual Inspection
 
