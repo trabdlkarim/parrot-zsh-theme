@@ -12,4 +12,4 @@
 #   sh install.sh
 #
 
-  mkdir -p $ZSH_CUSTOM/themes && curl https://raw.githubusercontent.com/trabdlkarim/parrot-zsh-theme/main/parrot.zsh-theme -L -o $ZSH_CUSTOM/themes/parrot.zsh-theme
+mkdir -p $ZSH_CUSTOM/themes && curl https://raw.githubusercontent.com/trabdlkarim/parrot-zsh-theme/main/parrot.zsh-theme -L -o $ZSH_CUSTOM/themes/parrot.zsh-theme
