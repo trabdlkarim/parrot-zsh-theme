@@ -3,6 +3,10 @@
 # It is recommended to use with a dark background.
 # Colors: black, red, green, yellow, *blue, magenta, cyan, and white.
 #
+# Note: If you change %c% in line
+# 	%{$terminfo[bold]$fg[yellow]%}%c%{$reset_color%}\
+# to %~% it will display the whole working directory
+#
 # Feb 2022 TOURE A. KARIM
 
 # VCS
