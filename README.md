@@ -48,6 +48,20 @@ To use the Parrot theme, simply change the value to match the name of the theme.
 ZSH_THEME="parrot" 
 ```
 
+## Note
+
+By default this theme only display the name of the current working directory, not the full path to it. If you want to display the whole working directory, then go to the line 74 in the theme file (parrot.zsh-theme), and change:
+
+```sh
+%{$terminfo[bold]$fg[yellow]%}%c%{$reset_color%}\
+```
+
+to
+
+```sh
+%{$terminfo[bold]$fg[yellow]%}%~%{$reset_color%}\
+```
+
 ## Contribute
 
 This project is released under the [MIT License](https://raw.githubusercontent.com/trabdlkarim/parrot-zsh-theme/main/LICENSE), so feel free customize and use it as you wish. [Pull requests](https://github.com/trabdlkarim/parrot-zsh-theme/pulls) for improving and enhancing this theme are also welcomed.
