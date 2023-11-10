@@ -50,7 +50,7 @@ ZSH_THEME="parrot"
 
 ## Note
 
-By default this theme only displays the name of the current working directory, not the full path to it. If you want to display the whole working directory, then go to the line 74 in the theme file (parrot.zsh-theme), and change:
+By default this theme only displays the name of the current working directory, not the full path to it. If you want to display the whole working directory, then go to the line 74 in the theme file (`parrot.zsh-theme`), and change:
 
 ```sh
 %{$terminfo[bold]$fg[yellow]%}%c%{$reset_color%}\
